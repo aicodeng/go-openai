@@ -1,3 +1,21 @@
+# About This Project
+
+This repository is a fork of sashabaranov/go-openai ↗, which provides a Go client for OpenAI APIs including ChatGPT, GPT-3, GPT-4, DALL·E, and Whisper.
+
+## Relationship to Upstream
+ • This project is based on the original sashabaranov/go-openai repository and retains most of its features.  
+ • It is maintained to address specific needs or issues, and may periodically sync with upstream changes as necessary.
+
+## License
+ • This project follows the original Apache-2.0 license ↗.  
+ • Many thanks to the original author and all contributors for their work.
+
+Original repository: [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) ↗
+
+
+> **The following content is the original content from upstream:**
+
+
 # Go OpenAI
 [![Go Reference](https://pkg.go.dev/badge/github.com/sashabaranov/go-openai.svg)](https://pkg.go.dev/github.com/sashabaranov/go-openai)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sashabaranov/go-openai)](https://goreportcard.com/report/github.com/sashabaranov/go-openai)

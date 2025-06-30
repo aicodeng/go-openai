@@ -1,5 +1,10 @@
 # Contributing Guidelines
 
+## Note: This is a forked repository
+This project is a fork of sashabaranov/go-openai. Please do not submit contributions to this repository; it is recommended to contribute directly to the upstream repository.
+
+> **The following content is the original content from upstream:**
+
 ## Overview
 Thank you for your interest in contributing to the "Go OpenAI" project! By following this guideline, we hope to ensure that your contributions are made smoothly and efficiently. The Go OpenAI project is licensed under the [Apache 2.0 License](https://github.com/sashabaranov/go-openai/blob/master/LICENSE), and we welcome contributions through GitHub pull requests.
 
